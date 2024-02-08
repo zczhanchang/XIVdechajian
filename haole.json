@@ -89,11 +89,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/LiFu/lifu.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/liFu/lifu.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/LiFu/lifu.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/LiFu/lifu.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/liFu/lifu.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/liFu/lifu.zip",
         "LastUpdate": "1705586430"
 },
 {
@@ -105,13 +105,13 @@
           "ApplicableVersion": "any",
           "RepoUrl": "https://github.com/daemitus/YesAlready",
           "DalamudApiLevel": 6,
-          "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/icon.png",
+          "IconUrl": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/yesalready/icon.png",
           "Punchline": "在你指定的各种对话框中单击确定.",
-          "DownloadLinkInstall": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/YesAlready/YesAlready.zip",
+          "DownloadLinkInstall": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/yesalready/yesalready.zip",
           "IsHide": false,
           "IsTestingExclusive": false,
-          "DownloadLinkTesting": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/YesAlready/YesAlready.zip",
-          "DownloadLinkUpdate": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/YesAlready/YesAlready.zip",
+          "DownloadLinkTesting": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/yesalready/yesalready.zip",
+          "DownloadLinkUpdate": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/yesalready/yesalready.zip",
           "DownloadCount": 0,
           "LastUpdated": "0"
 },
