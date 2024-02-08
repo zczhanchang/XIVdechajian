@@ -58,23 +58,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/AetheryteLinkInChat/AetheryteLinkInChat.zip",
 },
 {
-      "Author": "Haselnussbomber,NiGuangOwO (本地化)",
-      "Name": "HaselTweaks",
-      "Punchline": "一系列生活质量调整",
-      "Description": "继续调整",
-      "InternalName": "HaselTweaks",
-      "AssemblyVersion": "14.11.2.0",
-      "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-      "ApplicableVersion": "any",
-      "DalamudApiLevel": 8,
-      "DownloadLinkInstall": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/HaselTweaks/HaselTweaks.zip",
-      "IsHide": false,
-      "IsTestingExclusive": false,
-      "DownloadLinkTesting": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/HaselTweaks/HaselTweaks.zip",
-      "DownloadLinkUpdate": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/HaselTweaks/HaselTweaks.zip",
-      "LastUpdate": "1696564530"
-},
-{
         "Author": "tssailzz8",
         "Name": "LiFu",
         "Punchline": "LiFu",
