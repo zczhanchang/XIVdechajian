@@ -12,7 +12,7 @@
     "parsing",
     "plugin",
     "ACT"
-  ],
+],
 "DalamudApiLevel": 8,
 "LoadPriority": 0,
 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
@@ -34,7 +34,7 @@
             "overlay",
             "hunt",
             "akira"
-        ],
+  ],
   "DalamudApiLevel": 8,
   "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
   "Punchline": "Displays game objects location on screen and map.",
@@ -95,7 +95,7 @@
          "DownloadLinkTesting": "https://github.com/zczhanchang/XIVdechajian/raw/master/plugins/LiFu/lifu.zip",
          "DownloadLinkUpdate": "https://github.com/zczhanchang/XIVdechajian/raw/master/plugins/LiFu/lifu.zip",
          "LastUpdate": "1705586430"
-    },
+},
 {
            "Author": "daemitus",
            "Name": "Yes Already",
