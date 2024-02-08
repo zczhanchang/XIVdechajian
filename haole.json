@@ -68,7 +68,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
-        "IconUrl": "",
+        "IconUrl": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/liFu/2589.png",
         "ImageUrls": [
             ""
         ],
@@ -87,8 +87,8 @@
           "Description": "自动点击所有烦人的对话框,包括跳过动画和NPC对话",
           "ApplicableVersion": "any",
           "RepoUrl": "https://github.com/daemitus/YesAlready",
-          "DalamudApiLevel": 6,
-          "IconUrl": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/yesalready/icon.png",
+          "DalamudApiLevel": 8,
+          "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/icon.png",
           "Punchline": "在你指定的各种对话框中单击确定.",
           "DownloadLinkInstall": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/yesalready/yesalready.zip",
           "IsHide": false,
