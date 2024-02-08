@@ -1,28 +1,28 @@
 [
-{
-"Author": "Usagi",
-"Name": "IINACT",
-"InternalName": "IINACT",
-"AssemblyVersion": "2.3.0.2",
-"TestingAssemblyVersion": "2.3.0.2",
-"Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
-"ApplicableVersion": "any",
-"RepoUrl": "https://github.com/marzent/IINACT",
-"Tags": [
-    "parsing",
-    "plugin",
-    "ACT"
-],
-"DalamudApiLevel": 8,
-"LoadPriority": 0,
-"IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
-"Punchline": "A parsing plugin.",
-"IsHide": "False",
-"IsTestingExclusive": "False",
-"DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.3.0.2/IINACT.zip",
-"DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.3.0.2/IINACT.zip",
-"DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.3.0.2/IINACT.zip"
-},
+    {
+        "Author": "Usagi",
+        "Name": "IINACT",
+        "Punchline": "A parsing plugin.",
+        "Description": "\u80fd\u5728replay\u91cc\u9762\u4f7f\u7528\u7684\u548c\u4f7f\u7528edgetts\u7684\u52a0\u5f3a\u7248",
+        "InternalName": "IINACT",
+        "AssemblyVersion": "2.1.4.1",
+        "RepoUrl": "https://github.com/tssailzz8/IINACT",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "parsing",
+            "plugin",
+            "ACT"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/IINACT/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/IINACT/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/tssailzz8/MyPlugins/raw/main/plugins/IINACT/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1702294076"
+    },
 {
   "Author": "akira0245",
   "Name": "Radar",
