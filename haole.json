@@ -52,7 +52,7 @@
     "AssemblyVersion": "0.1.0.1255",
     "Description": "将一个传送到最近水晶的链接添加到含有地图标记的聊天中。",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "IconUrl": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/AetheryteLinkInChat/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/AetheryteLinkInChat/AetheryteLinkInChat.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/AetheryteLinkInChat/AetheryteLinkInChat.zip",
@@ -66,7 +66,7 @@
         "AssemblyVersion": "1.1.2.1",
         "RepoUrl": "",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/zczhanchang/XIVdechajian/master/plugins/liFu/2589.png",
         "ImageUrls": [
