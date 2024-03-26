@@ -1,18 +1,16 @@
 [
-{
-  "Author": "Haselnussbomber",
-  "Name": "HaselTweaks",
-  "InternalName": "HaselTweaks",
-  "AssemblyVersion": "20.2.1.0",
-  "Description": "Keep on tweaking.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/zczhanchang/XIVdechajian/raw/main/plugins/HaselTweaks/HaselTweaksv20.2.1.zip",
-  "DalamudApiLevel": 9,
-  "LoadRequiredState": 1,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "A collection of quality of life tweaks.",
-  "AcceptsFeedback": true
-}
+  {
+        "Author": "Haselnussbomber",
+        "Name": "HaselTweaks",
+        "Punchline": "一系列生活质量调整",
+        "Description": "继续调整",
+        "InternalName": "HaselTweaks",
+        "AssemblyVersion": "20.2.1.0",
+        "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/zczhanchang/XIVdechajian/raw/main/plugins/HaselTweaks/HaselTweaksv20.2.1.zip",
+        "DownloadLinkTesting": "https://github.com/zczhanchang/XIVdechajian/raw/main/plugins/HaselTweaks/HaselTweaksv20.2.1.zip",
+        "DownloadLinkUpdate": "https://github.com/zczhanchang/XIVdechajian/raw/main/plugins/HaselTweaks/HaselTweaksv20.2.1.zip",
+	}
 ]
