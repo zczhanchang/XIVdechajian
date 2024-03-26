@@ -6,7 +6,7 @@
   "AssemblyVersion": "20.2.1.0",
   "Description": "Keep on tweaking.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/zczhanchang/XIVdechajian/raw/main/plugins/HaselTweaks/HaselTweaks%20v20.2.1.zip",
+  "RepoUrl": "https://github.com/zczhanchang/XIVdechajian/raw/main/plugins/HaselTweaks/HaselTweaksv20.2.1.zip",
   "DalamudApiLevel": 9,
   "LoadRequiredState": 1,
   "LoadSync": false,
